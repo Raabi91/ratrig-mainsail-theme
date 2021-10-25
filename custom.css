@@ -32,6 +32,7 @@ This is a dark-mode theme ratrig like for mainsail
 
 .v-application .primary {
     background-color: var(--r_gray) !important;
+    border-color: var(--r_green) !important;
 }
 
 .v-application .success--text {
