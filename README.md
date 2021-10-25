@@ -4,6 +4,7 @@ a ratrig theme for mainsail
 
 ![preview](https://github.com/Raabi91/ratrig-mainsail-theme/blob/main/demo%20pictures/dashboard.png)
 
+![preview](https://github.com/Raabi91/ratrig-mainsail-theme/blob/main/demo%20pictures/siedbare_green.png)
 
 ## How to install
 You need mainsaill already installed on your machine, open your browser and search your 3D printer IP.
